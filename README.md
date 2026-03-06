@@ -1,12 +1,12 @@
-# TED - OCC GitHub Organization
-OCC の TED（Technology Enablement Division）チームの GitHub Organization です。
+# TED-OCC GitHub チーム
+OCC の TED（Tech-Ed innovation Division）チームの GitHub Organization です。
 開発標準・運営ルール・ナレッジをここで一元管理します。
 
 ## リポジトリ
 
 | リポジトリ | 内容 |
 |---|---|
-| [ted-foundation](https://github.com/ted-occ/ted-foundation) | 運営方針・ルール・標準・オンボーディング |
+| [ted-foundation](https://github.com/ted-occ/ted-foundation) プライベート| 運営方針・ルール・標準・オンボーディング |
 
 ## チームに参加するには
 
