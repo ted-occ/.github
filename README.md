@@ -1,19 +1,7 @@
-# TED-OCC GitHub チーム
-OCC の TED（Tech-Ed innovation Division）チームの GitHub Organization です。
-開発標準・運営ルール・ナレッジをここで一元管理します。
+# .github リポジトリ
 
-## リポジトリ
+このリポジトリは `ted-occ` Organization の特殊リポジトリです。
 
-| リポジトリ | 内容 |
-|---|---|
-| [ted-foundation](https://github.com/ted-occ/ted-foundation) プライベート| 運営方針・ルール・標準・オンボーディング |
+Organization のプロフィールページに表示される README は以下にあります：
 
-## チームに参加するには
-
-1. GitHub アカウントを用意する
-2. `ted-admin@occ.co.jp` に連絡する
-3. [オンボーディングガイド](https://github.com/ted-occ/ted-foundation/blob/main/00_start-here/onboarding.md)
-を読む
-
-## 管理者
-- [@TED-Administrator](https://github.com/TED-Administrator)
+- [profile/README.md](./profile/README.md)
