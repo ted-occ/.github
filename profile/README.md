@@ -1,12 +1,20 @@
-## Hi there 👋
+# TED - OCC GitHub Organization
 
-<!--
+OCC の TED（Technology Enablement Division）チームの GitHub Organization です。
+開発標準・運営ルール・ナレッジをここで一元管理します。
 
-**Here are some ideas to get you started:**
+## リポジトリ
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| リポジトリ | 内容 |
+|---|---|
+| [ted-foundation](https://github.com/ted-occ/ted-foundation) | 運営方針・ルール・標準・オンボーディング |
+
+## チームに参加するには
+
+1. GitHub アカウントを用意する
+2. `ted-admin@occ.co.jp` に連絡する
+3. [オンボーディングガイド](https://github.com/ted-occ/ted-foundation/blob/main/00_start-here/onboarding.md)を読む
+
+## 管理者
+
+- [@TED-Administrator](https://github.com/TED-Administrator)
