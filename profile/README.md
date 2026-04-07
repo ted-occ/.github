@@ -2,7 +2,7 @@
 
 **信頼できるソフトウェアを、持続可能な方法で届け続ける開発チーム**
 
-OCC の TED（Technology Enablement Division）は、お客様・社内・社会に価値あるソフトウェアを届けることを目指す開発チームです。
+OCC の TED（TechEd innovation Division）は、お客様・社内・社会に価値あるソフトウェアを届けることを目指す開発チームです。
 
 ## 私たちの開発原則
 
