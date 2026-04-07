@@ -18,7 +18,7 @@ OCC の TED（TechEd innovation Division）は、お客様・社内・社会に�
 | リポジトリ | 内容 |
 |---|---|
 | [learning-git](https://github.com/ted-occ/learning-git) | Git学習用リポジトリ |
-| [ted-steam-cards](https://github.com/ted-occ/ted-steam-cards) | STEAM教育カードアプリ |
+| [ted-stem-cards](https://github.com/ted-occ/ted-stem-cards) | STEM教育カードアプリ |
 | [web-welcome](https://github.com/ted-occ/web-welcome) | チーム紹介ページ |
 
 ## チームに参加するには
