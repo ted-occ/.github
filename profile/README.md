@@ -1,20 +1,31 @@
-# TED - OCC GitHub Organization
+# TED Development Team
 
-OCC の TED（Technology Enablement Division）チームの GitHub Organization です。
-開発標準・運営ルール・ナレッジをここで一元管理します。
+**信頼できるソフトウェアを、持続可能な方法で届け続ける開発チーム**
 
-## リポジトリ
+OCC の TED（Technology Enablement Division）は、お客様・社内・社会に価値あるソフトウェアを届けることを目指す開発チームです。
+
+## 私たちの開発原則
+
+- シンプルさを優先する
+- セキュリティは妥協しない
+- 透明性とドキュメントを重視する
+- 小さく反復的に変更する
+- コードレビューを品質への投資とする
+- 定型作業は自動化する
+
+## 公開リポジトリ
 
 | リポジトリ | 内容 |
 |---|---|
-| [ted-foundation](https://github.com/ted-occ/ted-foundation) | 運営方針・ルール・標準・オンボーディング |
+| [learning-git](https://github.com/ted-occ/learning-git) | Git学習用リポジトリ |
+| [ted-steam-cards](https://github.com/ted-occ/ted-steam-cards) | STEAM教育カードアプリ |
+| [web-welcome](https://github.com/ted-occ/web-welcome) | チーム紹介ページ |
 
 ## チームに参加するには
 
-1. GitHub アカウントを用意する
-2. `ted-admin@occ.co.jp` に連絡する
-3. [オンボーディングガイド](https://github.com/ted-occ/ted-foundation/blob/main/00_start-here/onboarding.md)を読む
+チームへの参加は **Pull Request** で申請できます。詳しくは [チーム紹介ページ](https://ted-occ.github.io/web-welcome/) をご覧ください。
 
-## 管理者
+## お問い合わせ
 
-- [@TED-Administrator](https://github.com/TED-Administrator)
+- メール: ted-admin@occ.co.jp
+- 管理者: [@TED-Administrator](https://github.com/TED-Administrator)
